@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(164, 252, 252);
+  margin-left: 20%;
+  margin-right: 10%;
+}
+.clearfix {
+
+  margin-top: 10%;
+  margin-right: 15%;
+  position: center;
+  
+  margin-block-end: 10%;
+}
+.container-pieredze {
+  
+  margin-block-start: 10%;
+  
+}
+#exprc {
+  margin-left: 38%;
+  margin-block-end: 5%;
+
+
+}
+#fotog {
+    margin-left: 35%;
+    margin-block-end: 10%;
+}
+#kontakti {
+    margin-block-start: 10%;
+    margin-block-end: 10%;
+
+}
+#kont {
+    margin-left: 38%;
+    margin-block-end: 5%;
+}
+#hobiji {
+  margin-block-start: 15%;
+}
+#velo {
+  margin-top: 5%;
+}
+#hobijs1 {
+  margin-top: 5%;
+}
